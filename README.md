@@ -14,7 +14,7 @@
 <div style="display: inline_block">
   <img align="center" alt="python" height ="40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" alt="C" height ="40" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<i class="devicon-javascript-plain colored"></i>
+<img class="devicon-javascript-plain colored"></i>
 </div><br/>
 
 <details>
