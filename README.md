@@ -1,9 +1,9 @@
 <h1 align="center">✿ Hello, I'm Fabiane! </h1>
 
-* 🌟 2009 | Brazil  
-* 🎒 Pursuing a technical course in Systems Development at IFSC, Brazil.  
-* 💻 I'm learning Python and C!  
-* 🔧 I'm at the beginning of my programming journey, and my goal here is to learn and develop my skills.
+* ✩ 2009 | Brazil  
+* ✩ Pursuing a technical course in Systems Development at IFSC, Brazil.  
+* ✩ I'm learning JavaScript, Python and C!  
+* ✩ I'm at the beginning of my programming journey, and my goal here is to learn and develop my skills.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FabianeOliveiraIFSC&show_icons=true&theme=midnight-purple&icon_color=E2322B&title_color=e2322b&hide=prs,issues&count_private=true&card_width=400" alt="FabianeOliveiraIFSC's Stats" />
