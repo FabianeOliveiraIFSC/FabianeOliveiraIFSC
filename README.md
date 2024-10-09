@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Fabiane! </h1>
+<h1 align="center">✿ Hello, I'm Fabiane! </h1>
 
 * 🌟 2009 | Brazil  
 * 🎒 Pursuing a technical course in Systems Development at IFSC, Brazil.  
